@@ -1,0 +1,190 @@
+/* Custom styles for Trend Shelf AI */
+
+/* --- Color Theme Variables --- */
+:root {
+    /* Dark Mode (Default) */
+    --primary-bg: #0c0a09;
+    --text-primary: #e5e7eb;
+    --text-secondary: #9ca3af;
+    --glass-bg: rgba(17, 24, 39, 0.6);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --hover-bg: rgba(59, 130, 246, 0.2);
+    --hover-glow: rgba(96, 165, 250, 0.4);
+    --hover-border: rgba(96, 165, 250, 0.8);
+    --accent-color: #60a5fa;
+    --scrollbar-thumb: rgba(75, 85, 99, 0.7);
+    --table-header-bg: rgba(55, 65, 81, 0.7);
+    --table-row-even-bg: rgba(31, 41, 55, 0.5);
+    --background-gradient: url('https://www.transparenttextures.com/patterns/asfalt-light.png'), linear-gradient(135deg, #1e3a8a 0%, #111827 50%, #4c1d95 100%);
+}
+
+body.light-mode {
+    /* Light Mode - VIBRANT COLORS */
+    --primary-bg: #f0f9ff;
+    --text-primary: #1e293b;
+    --text-secondary: #475569;
+    --glass-bg: rgba(255, 255, 255, 0.5);
+    --glass-border: rgba(0, 0, 0, 0.1);
+    --hover-bg: rgba(96, 165, 250, 0.15);
+    --hover-glow: rgba(96, 165, 250, 0.5);
+    --hover-border: rgba(96, 165, 250, 0.9);
+    --accent-color: #2563eb;
+    --scrollbar-thumb: rgba(161, 161, 170, 0.8);
+    --table-header-bg: rgba(226, 232, 240, 0.7);
+    --table-row-even-bg: rgba(241, 245, 249, 0.6);
+    --background-gradient: url('https://www.transparenttextures.com/patterns/light-paper-fibers.png'), linear-gradient(135deg, #7dd3fc 0%, #a5b4fc 50%, #f9a8d4 100%);
+}
+
+
+/* --- Base and Background --- */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--primary-bg);
+    color: var(--text-primary);
+    margin: 0;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.background-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--background-gradient);
+    background-blend-mode: overlay;
+    z-index: -1;
+    animation: gradient-animation 20s ease infinite;
+    transition: background-image 0.5s ease;
+}
+
+@keyframes gradient-animation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.main-container {
+    position: relative;
+    z-index: 1;
+}
+
+/* --- Glassmorphism Effect --- */
+.glassmorphism, .glass-sidebar {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: 1rem;
+    transition: all 0.3s ease;
+}
+
+/* --- Sidebar Styling --- */
+.glass-sidebar {
+    border-right: 1px solid var(--glass-border);
+    border-radius: 0;
+    transition: width 0.3s ease-in-out;
+}
+
+.nav-link {
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    border-left: 4px solid transparent;
+    color: var(--text-secondary);
+}
+
+.nav-link:hover, .nav-link.active {
+    background-color: var(--hover-bg);
+    color: var(--text-primary);
+    border-left-color: var(--accent-color);
+    box-shadow: 0 0 15px var(--hover-glow);
+}
+
+/* --- Collapsible Sidebar Styles --- */
+#sidebar-toggle i {
+    transition: transform 0.3s ease-in-out;
+}
+
+.sidebar-collapsed {
+    width: 5rem; /* 80px */
+}
+
+.sidebar-collapsed .nav-link span,
+.sidebar-collapsed .flex.items-center.mb-8 h1,
+.sidebar-collapsed #sidebar-bottom-content {
+    display: none;
+}
+
+.sidebar-collapsed .nav-link {
+    justify-content: center;
+}
+
+.sidebar-collapsed .flex.items-center.mb-8 {
+    justify-content: center;
+}
+
+.sidebar-collapsed #sidebar-toggle i {
+    transform: rotate(180deg);
+}
+
+
+/* --- Card and Interactive Element Styling --- */
+.kpi-card {
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.kpi-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 0 25px var(--hover-glow);
+    border-color: var(--hover-border);
+}
+
+/* --- Chart Container --- */
+.chart-container {
+    height: 350px; /* Reduced chart height */
+    position: relative;
+}
+
+/* --- Theme Toggle Switch --- */
+#theme-toggle:checked ~ .dot {
+    transform: translateX(100%);
+    background-color: #3b82f6;
+}
+
+/* --- Scrollbar --- */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: color-mix(in srgb, var(--scrollbar-thumb), #fff 20%); }
+
+/* --- Table Styling --- */
+.table-header { background-color: var(--table-header-bg); }
+.table-row { background-color: transparent; transition: background-color 0.3s ease; }
+.table-row:nth-child(even) { background-color: var(--table-row-even-bg); }
+.table-row:hover { background-color: var(--hover-bg); }
+
+/* --- Tags for Recommendations --- */
+.tag { padding: 0.25rem 0.75rem; border-radius: 9999px; font-weight: 600; font-size: 0.75rem; text-shadow: 1px 1px 2px rgba(0,0,0,0.3); color: white; }
+.tag-acquire { background: linear-gradient(45deg, #10b981, #34d399); }
+.tag-transfer { background: linear-gradient(45deg, #f59e0b, #fbbf24); }
+.tag-deaccession { background: linear-gradient(45deg, #ef4444, #f87171); }
+.tag-hold { background: linear-gradient(45deg, #6b7280, #9ca3af); }
+
+/* --- Custom File Input & Buttons --- */
+.file-upload-btn { background-color: #3b82f6; color: white; padding: 0.5rem 1rem; border-radius: 0.5rem; cursor: pointer; transition: all 0.3s; border: 1px solid transparent; }
+.file-upload-btn:hover { background-color: #2563eb; box-shadow: 0 0 15px rgba(59, 130, 246, 0.5); transform: translateY(-2px); }
+
+.clear-data-btn {
+    background-color: #ef4444;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 1px solid transparent;
+}
+.clear-data-btn:hover {
+    background-color: #dc2626;
+    box-shadow: 0 0 15px rgba(239, 68, 68, 0.5);
+    transform: translateY(-2px);
+}

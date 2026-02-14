@@ -1,0 +1,79 @@
+{% extends 'library_ai/base.html' %}
+{% load static %}
+
+{% block title %}Dashboard - Trend Shelf AI{% endblock %}
+
+{% block content %}
+<h2 class="text-3xl font-bold mb-6">Dashboard Overview</h2>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+    <div class="lg:col-span-2 space-y-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="kpi-card glassmorphism p-5">
+                <div class="flex items-center">
+                    <div class="p-3 bg-blue-500/80 rounded-full mr-4">
+                        <i class="fas fa-crosshairs fa-lg text-white"></i>
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-400">Prediction Accuracy</p>
+                        <p id="kpi-accuracy" class="text-2xl font-bold">0%</p>
+                    </div>
+                </div>
+            </div>
+            <div class="kpi-card glassmorphism p-5">
+                <div class="flex items-center">
+                    <div class="p-3 bg-green-500/80 rounded-full mr-4">
+                        <i class="fas fa-sync-alt fa-lg text-white"></i>
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-400">Inventory Turnover</p>
+                        <p id="kpi-turnover" class="text-2xl font-bold">0%</p>
+                    </div>
+                </div>
+            </div>
+            <div class="kpi-card glassmorphism p-5">
+                <div class="flex items-center">
+                    <div class="p-3 bg-yellow-500/80 rounded-full mr-4">
+                        <i class="fas fa-balance-scale fa-lg text-white"></i>
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-400">Service Equity Index</p>
+                        <p id="kpi-equity" class="text-2xl font-bold">0%</p>
+                    </div>
+                </div>
+            </div>
+            <div class="kpi-card glassmorphism p-5">
+                <div class="flex items-center">
+                    <div class="p-3 bg-red-500/80 rounded-full mr-4">
+                        <i class="fas fa-heart fa-lg text-white"></i>
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-400">User Satisfaction</p>
+                        <p id="kpi-satisfaction" class="text-2xl font-bold">0%</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="glassmorphism p-6">
+            <h3 class="text-xl font-semibold mb-4">Inventory Composition</h3>
+            <div class="chart-container">
+                <canvas id="compositionChart"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="lg:col-span-1">
+        <div class="book-spotlight-card glassmorphism p-6 h-full">
+            <h3 class="text-xl font-semibold mb-4">AI Pick of the Day</h3>
+            <div id="book-spotlight-content" class="flex flex-col items-center text-center h-full justify-center">
+                <div class="book-cover-placeholder mb-4 text-gray-500">
+                    <i class="fas fa-book-open fa-3x"></i>
+                </div>
+                <p class="text-gray-400">Upload a file to see AI insights.</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{% static 'js/dashboard.js' %}"></script>
+{% endblock %}

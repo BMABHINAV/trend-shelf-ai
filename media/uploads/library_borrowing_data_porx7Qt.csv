@@ -1,0 +1,31 @@
+book_id,title,author,category,borrow_date,return_date,user_id,user_age,user_location,borrow_duration
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,2024-01-15,2024-01-29,U001,25,Downtown,14
+2,To Kill a Mockingbird,Harper Lee,Fiction,2024-01-16,2024-01-30,U002,34,Suburbs,14
+3,1984,George Orwell,Fiction,2024-01-17,2024-01-31,U003,28,City Center,14
+4,Pride and Prejudice,Jane Austen,Fiction,2024-01-18,2024-02-01,U004,42,Downtown,14
+5,The Catcher in the Rye,J.D. Salinger,Fiction,2024-01-19,2024-02-02,U005,19,Suburbs,14
+6,JavaScript: The Good Parts,Douglas Crockford,Technology,2024-01-20,2024-02-03,U006,31,City Center,14
+7,Clean Code,Robert C. Martin,Technology,2024-01-21,2024-02-04,U007,29,Downtown,14
+8,Python Crash Course,Eric Matthes,Technology,2024-01-22,2024-02-05,U008,26,Suburbs,14
+9,The Design of Everyday Things,Don Norman,Technology,2024-01-23,2024-02-06,U009,35,City Center,14
+10,Introduction to Algorithms,Thomas H. Cormen,Technology,2024-01-24,2024-02-07,U010,27,Downtown,14
+11,The Hobbit,J.R.R. Tolkien,Fantasy,2024-01-25,2024-02-08,U011,22,Suburbs,14
+12,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,2024-01-26,2024-02-09,U012,16,City Center,14
+13,The Lord of the Rings,J.R.R. Tolkien,Fantasy,2024-01-27,2024-02-10,U013,33,Downtown,14
+14,A Game of Thrones,George R.R. Martin,Fantasy,2024-01-28,2024-02-11,U014,38,Suburbs,14
+15,The Chronicles of Narnia,C.S. Lewis,Fantasy,2024-01-29,2024-02-12,U015,24,City Center,14
+16,Becoming,Michelle Obama,Biography,2024-01-30,2024-02-13,U016,41,Downtown,14
+17,Steve Jobs,Walter Isaacson,Biography,2024-01-31,2024-02-14,U017,36,Suburbs,14
+18,Educated,Tara Westover,Biography,2024-02-01,2024-02-15,U018,30,City Center,14
+19,The Diary of a Young Girl,Anne Frank,Biography,2024-02-02,2024-02-16,U019,20,Downtown,14
+20,Born a Crime,Trevor Noah,Biography,2024-02-03,2024-02-17,U020,25,Suburbs,14
+21,Sapiens,Yuval Noah Harari,History,2024-02-04,2024-02-18,U021,39,City Center,14
+22,Guns, Germs, and Steel,Jared Diamond,History,2024-02-05,2024-02-19,U022,43,Downtown,14
+23,The Wright Brothers,David McCullough,History,2024-02-06,2024-02-20,U023,37,Suburbs,14
+24,A People's History of the United States,Howard Zinn,History,2024-02-07,2024-02-21,U024,31,City Center,14
+25,The Civil War,Ken Burns,History,2024-02-08,2024-02-22,U025,29,Downtown,14
+26,The Great Gatsby,F. Scott Fitzgerald,Fiction,2024-02-09,2024-02-23,U026,27,Suburbs,7
+27,To Kill a Mockingbird,Harper Lee,Fiction,2024-02-10,2024-02-17,U027,35,City Center,7
+28,1984,George Orwell,Fiction,2024-02-11,2024-02-18,U028,32,Downtown,7
+29,Pride and Prejudice,Jane Austen,Fiction,2024-02-12,2024-02-19,U029,40,Suburbs,7
+30,JavaScript: The Good Parts,Douglas Crockford,Technology,2024-02-13,2024-02-20,U030,28,City Center,7

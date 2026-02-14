@@ -1,0 +1,52 @@
+{% extends 'library_ai/base.html' %}
+{% load static %}
+
+{% block title %}Demand Forecasting - Trend Shelf AI{% endblock %}
+
+{% block content %}
+<h2 class="text-3xl font-bold mb-6">AI-Powered Demand Forecasting</h2>
+<div class="glassmorphism p-6">
+    <div class="flex justify-between items-center mb-4">
+        <p class="text-lg">
+            <span>Borrowing Trends:</span> 
+            <span id="chart-category-title" class="font-bold text-cyan-300"></span>
+        </p>
+        <select id="category-selector" class="bg-gray-700/50 border border-gray-600 rounded-lg p-2">
+            <option value="">Select Category</option>
+            {% for category in categories %}
+            <option value="{{ category }}">{{ category }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div class="chart-container">
+        <canvas id="demandChart"></canvas>
+    </div>
+    <div class="mt-4 p-4 bg-blue-500/10 rounded-lg">
+        <h4 class="font-semibold text-blue-300 mb-2">
+            <i class="fas fa-robot mr-2"></i>AI Insights
+        </h4>
+        <p id="ai-insights" class="text-sm text-gray-300">
+            Select a category to see AI-powered demand predictions and trends analysis.
+        </p>
+    </div>
+</div>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+    <div class="glassmorphism p-6">
+        <h3 class="text-xl font-semibold mb-4">Trending Categories</h3>
+        <div id="trending-categories">
+            <p class="text-gray-400">Loading trending categories...</p>
+        </div>
+    </div>
+    <div class="glassmorphism p-6">
+        <h3 class="text-xl font-semibold mb-4">Prediction Accuracy</h3>
+        <div class="chart-container" style="height: 200px;">
+            <canvas id="accuracyChart"></canvas>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{% static 'js/demand_forecasting.js' %}"></script>
+{% endblock %}

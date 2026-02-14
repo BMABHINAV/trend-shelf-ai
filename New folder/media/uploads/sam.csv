@@ -1,0 +1,750 @@
+title,author,category,demand,action
+Dune,Frank Herbert,Science Fiction,95,Acquire
+Foundation,Isaac Asimov,Science Fiction,92,Acquire
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,88,Hold
+The Three-Body Problem,Cixin Liu,Science Fiction,85,Transfer
+Clean Code,Robert C. Martin,Technology,78,Hold
+The Very Hungry Caterpillar,Eric Carle,Children's Books,75,Acquire
+A Short History of Nearly Everything,Bill Bryson,History,72,Hold
+Neuromancer,William Gibson,Science Fiction,68,Deaccession
+Designing Data-Intensive Applications,Martin Kleppmann,Technology,65,Transfer
+Where the Wild Things Are,Maurice Sendak,Children's Books,62,Hold
+The Hobbit,J.R.R. Tolkien,Fantasy,91,Acquire
+Steve Jobs,Walter Isaacson,Biography,84,Hold
+Guns, Germs, and Steel,Jared Diamond,History,79,Transfer
+Project Hail Mary,Andy Weir,Science Fiction,96,Acquire
+Atomic Habits,James Clear,Self-Help,89,Acquire
+The Name of the Wind,Patrick Rothfuss,Fantasy,87,Hold
+Goodnight Moon,Margaret Wise Brown,Children's Books,70,Deaccession
+The Pragmatic Programmer,Andrew Hunt,Technology,76,Hold
+Becoming,Michelle Obama,Biography,93,Acquire
+A Game of Thrones,George R.R. Martin,Fantasy,90,Transfer
+The Silent Patient,Alex Michaelides,Thriller,94,Acquire
+Educated,Tara Westover,Memoir,91,Hold
+Circe,Madeline Miller,Fantasy,88,Acquire
+The Midnight Library,Matt Haig,Fantasy,86,Transfer
+Klara and the Sun,Kazuo Ishiguro,Science Fiction,83,Hold
+The Vanishing Half,Brit Bennett,Fiction,81,Acquire
+Where the Crawdads Sing,Delia Owens,Fiction,97,Acquire
+The Four Winds,Kristin Hannah,Historical Fiction,85,Hold
+Anxious People,Fredrik Backman,Fiction,82,Transfer
+The Guest List,Lucy Fokley,Thriller,89,Acquire
+The Song of Achilles,Madeline Miller,Fantasy,90,Acquire
+The 7 Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,92,Hold
+To Kill a Mockingbird,Harper Lee,Classic,98,Acquire
+1984,George Orwell,Classic,97,Acquire
+Pride and Prejudice,Jane Austen,Classic,95,Hold
+The Great Gatsby,F. Scott Fitzgerald,Classic,94,Transfer
+Moby Dick,Herman Melville,Classic,75,Deaccession
+War and Peace,Leo Tolstoy,Classic,78,Hold
+The Catcher in the Rye,J.D. Salinger,Classic,88,Acquire
+Brave New World,Aldous Huxley,Science Fiction,93,Acquire
+Lord of the Flies,William Golding,Classic,89,Hold
+Fahrenheit 451,Ray Bradbury,Science Fiction,94,Acquire
+The Alchemist,Paulo Coelho,Fantasy,91,Acquire
+The Road,Cormac McCarthy,Fiction,85,Hold
+Life of Pi,Yann Martel,Fiction,87,Transfer
+The Kite Runner,Khaled Hosseini,Fiction,90,Acquire
+A Thousand Splendid Suns,Khaled Hosseini,Fiction,89,Hold
+The Book Thief,Markus Zusak,Historical Fiction,92,Acquire
+The Martian,Andy Weir,Science Fiction,95,Acquire
+Ready Player One,Ernest Cline,Science Fiction,91,Hold
+The Hunger Games,Suzanne Collins,YA Fiction,96,Acquire
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,99,Acquire
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,98,Acquire
+The Chronicles of Narnia,C.S. Lewis,Fantasy,94,Hold
+The Da Vinci Code,Dan Brown,Thriller,92,Transfer
+Gone Girl,Gillian Flynn,Thriller,93,Acquire
+The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,91,Hold
+The Help,Kathryn Stockett,Historical Fiction,90,Acquire
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,Non-Fiction,88,Hold
+Thinking, Fast and Slow,Daniel Kahneman,Non-Fiction,86,Transfer
+Freakonomics,Steven D. Levitt,Non-Fiction,84,Hold
+Outliers,Malcolm Gladwell,Non-Fiction,87,Acquire
+The Tipping Point,Malcolm Gladwell,Non-Fiction,85,Hold
+David and Goliath,Malcolm Gladwell,Non-Fiction,83,Transfer
+Quiet: The Power of Introverts,Susan Cain,Self-Help,89,Acquire
+Daring Greatly,Brené Brown,Self-Help,88,Hold
+The Power of Habit,Charles Duhigg,Self-Help,90,Acquire
+Grit: The Power of Passion and Perseverance,Angela Duckworth,Self-Help,87,Hold
+Mindset: The New Psychology of Success,Carol S. Dweck,Self-Help,86,Transfer
+Man's Search for Meaning,Viktor E. Frankl,Memoir,91,Acquire
+When Breath Becomes Air,Paul Kalanithi,Memoir,90,Hold
+The Glass Castle,Jeannette Walls,Memoir,89,Acquire
+Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,Memoir,87,Hold
+Into the Wild,Jon Krakauer,Non-Fiction,88,Transfer
+Into Thin Air,Jon Krakauer,Non-Fiction,89,Acquire
+A Walk in the Woods,Bill Bryson,Travel,85,Hold
+Eat, Pray, Love,Elizabeth Gilbert,Travel,83,Transfer
+On the Road,Jack Kerouac,Classic,86,Acquire
+The Sun Also Rises,Ernest Hemingway,Classic,84,Hold
+For Whom the Bell Tolls,Ernest Hemingway,Classic,85,Transfer
+The Old Man and the Sea,Ernest Hemingway,Classic,88,Acquire
+East of Eden,John Steinbeck,Classic,90,Hold
+The Grapes of Wrath,John Steinbeck,Classic,91,Acquire
+Of Mice and Men,John Steinbeck,Classic,92,Hold
+The Pearl,John Steinbeck,Classic,85,Transfer
+The Stand,Stephen King,Horror,93,Acquire
+It,Stephen King,Horror,94,Hold
+The Shining,Stephen King,Horror,92,Acquire
+Misery,Stephen King,Horror,90,Hold
+Carrie,Stephen King,Horror,88,Transfer
+Pet Sematary,Stephen King,Horror,89,Acquire
+Salem's Lot,Stephen King,Horror,87,Hold
+The Green Mile,Stephen King,Fiction,91,Acquire
+The Dark Tower: The Gunslinger,Stephen King,Fantasy,86,Hold
+Interview with the Vampire,Anne Rice,Horror,88,Transfer
+Dracula,Bram Stoker,Classic,90,Acquire
+Frankenstein,Mary Shelley,Classic,91,Hold
+The Picture of Dorian Gray,Oscar Wilde,Classic,89,Acquire
+A Tale of Two Cities,Charles Dickens,Classic,87,Hold
+Great Expectations,Charles Dickens,Classic,86,Transfer
+Oliver Twist,Charles Dickens,Classic,85,Acquire
+David Copperfield,Charles Dickens,Classic,84,Hold
+Bleak House,Charles Dickens,Classic,83,Deaccession
+The Adventures of Tom Sawyer,Mark Twain,Classic,89,Acquire
+Adventures of Huckleberry Finn,Mark Twain,Classic,90,Hold
+A Connecticut Yankee in King Arthur's Court,Mark Twain,Fantasy,85,Transfer
+The Prince and the Pauper,Mark Twain,Classic,84,Acquire
+The Count of Monte Cristo,Alexandre Dumas,Classic,92,Hold
+The Three Musketeers,Alexandre Dumas,Classic,91,Acquire
+Les Misérables,Victor Hugo,Classic,90,Hold
+The Hunchback of Notre-Dame,Victor Hugo,Classic,88,Transfer
+Crime and Punishment,Fyodor Dostoevsky,Classic,89,Acquire
+The Brothers Karamazov,Fyodor Dostoevsky,Classic,88,Hold
+The Idiot,Fyodor Dostoevsky,Classic,86,Deaccession
+Anna Karenina,Leo Tolstoy,Classic,87,Acquire
+Don Quixote,Miguel de Cervantes,Classic,89,Hold
+One Hundred Years of Solitude,Gabriel García Márquez,Fiction,91,Acquire
+Love in the Time of Cholera,Gabriel García Márquez,Fiction,90,Hold
+The House of the Spirits,Isabel Allende,Fiction,88,Transfer
+The Handmaid's Tale,Margaret Atwood,Science Fiction,94,Acquire
+Oryx and Crake,Margaret Atwood,Science Fiction,87,Hold
+The Testaments,Margaret Atwood,Science Fiction,90,Acquire
+Cat's Cradle,Kurt Vonnegut,Science Fiction,88,Hold
+Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,90,Transfer
+Breakfast of Champions,Kurt Vonnegut,Fiction,86,Acquire
+A Clockwork Orange,Anthony Burgess,Science Fiction,89,Hold
+Dune Messiah,Frank Herbert,Science Fiction,85,Acquire
+Children of Dune,Frank Herbert,Science Fiction,84,Hold
+God Emperor of Dune,Frank Herbert,Science Fiction,83,Transfer
+Hyperion,Dan Simmons,Science Fiction,91,Acquire
+The Fall of Hyperion,Dan Simmons,Science Fiction,90,Hold
+Endymion,Dan Simmons,Science Fiction,88,Deaccession
+The Rise of Endymion,Dan Simmons,Science Fiction,87,Acquire
+I, Robot,Isaac Asimov,Science Fiction,90,Hold
+The Caves of Steel,Isaac Asimov,Science Fiction,88,Transfer
+The Naked Sun,Isaac Asimov,Science Fiction,87,Acquire
+The Robots of Dawn,Isaac Asimov,Science Fiction,86,Hold
+Robots and Empire,Isaac Asimov,Science Fiction,85,Deaccession
+Prelude to Foundation,Isaac Asimov,Science Fiction,89,Acquire
+Forward the Foundation,Isaac Asimov,Science Fiction,88,Hold
+Foundation and Empire,Isaac Asimov,Science Fiction,91,Transfer
+Second Foundation,Isaac Asimov,Science Fiction,91,Acquire
+Foundation's Edge,Isaac Asimov,Science Fiction,87,Hold
+Foundation and Earth,Isaac Asimov,Science Fiction,86,Deaccession
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,95,Acquire
+The Restaurant at the End of the Universe,Douglas Adams,Science Fiction,92,Hold
+Life, the Universe and Everything,Douglas Adams,Science Fiction,91,Transfer
+So Long, and Thanks for All the Fish,Douglas Adams,Science Fiction,90,Acquire
+Mostly Harmless,Douglas Adams,Science Fiction,88,Hold
+Ender's Game,Orson Scott Card,Science Fiction,94,Acquire
+Speaker for the Dead,Orson Scott Card,Science Fiction,89,Hold
+Xenocide,Orson Scott Card,Science Fiction,85,Transfer
+Children of the Mind,Orson Scott Card,Science Fiction,84,Deaccession
+Starship Troopers,Robert A. Heinlein,Science Fiction,88,Acquire
+The Moon Is a Harsh Mistress,Robert A. Heinlein,Science Fiction,87,Hold
+Stranger in a Strange Land,Robert A. Heinlein,Science Fiction,86,Transfer
+Do Androids Dream of Electric Sheep?,Philip K. Dick,Science Fiction,90,Acquire
+Ubik,Philip K. Dick,Science Fiction,87,Hold
+A Scanner Darkly,Philip K. Dick,Science Fiction,88,Transfer
+The Man in the High Castle,Philip K. Dick,Science Fiction,89,Acquire
+VALIS,Philip K. Dick,Science Fiction,85,Deaccession
+Snow Crash,Neal Stephenson,Science Fiction,91,Acquire
+Cryptonomicon,Neal Stephenson,Fiction,89,Hold
+The Diamond Age,Neal Stephenson,Science Fiction,88,Transfer
+Anathem,Neal Stephenson,Science Fiction,87,Acquire
+Seveneves,Neal Stephenson,Science Fiction,90,Hold
+The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,90,Acquire
+A Wizard of Earthsea,Ursula K. Le Guin,Fantasy,91,Hold
+The Dispossessed,Ursula K. Le Guin,Science fiction,88,Transfer
+The Lathe of Heaven,Ursula K. Le Guin,Science Fiction,87,Acquire
+Always Coming Home,Ursula K. Le Guin,Science Fiction,85,Deaccession
+The Forever War,Joe Haldeman,Science Fiction,89,Acquire
+Gateway,Frederik Pohl,Science Fiction,87,Hold
+Ringworld,Larry Niven,Science Fiction,88,Transfer
+The Mote in God's Eye,Larry Niven,Science Fiction,86,Acquire
+Rendezvous with Rama,Arthur C. Clarke,Science Fiction,90,Hold
+Childhood's End,Arthur C. Clarke,Science Fiction,89,Transfer
+2001: A Space Odyssey,Arthur C. Clarke,Science Fiction,91,Acquire
+The City and the Stars,Arthur C. Clarke,Science Fiction,88,Hold
+The Fountains of Paradise,Arthur C. Clarke,Science Fiction,86,Deaccession
+The Martian Chronicles,Ray Bradbury,Science Fiction,90,Acquire
+The Illustrated Man,Ray Bradbury,Science Fiction,89,Hold
+Something Wicked This Way Comes,Ray Bradbury,Horror,88,Transfer
+I Am Legend,Richard Matheson,Horror,89,Acquire
+Hell House,Richard Matheson,Horror,87,Hold
+A Stir of Echoes,Richard Matheson,Horror,86,Deaccession
+The Haunting of Hill House,Shirley Jackson,Horror,91,Acquire
+We Have Always Lived in the Castle,Shirley Jackson,Fiction,89,Hold
+The Lottery and Other Stories,Shirley Jackson,Fiction,88,Transfer
+Rosemary's Baby,Ira Levin,Horror,89,Acquire
+The Stepford Wives,Ira Levin,Thriller,87,Hold
+The Boys from Brazil,Ira Levin,Thriller,86,Deaccession
+The Exorcist,William Peter Blatty,Horror,92,Acquire
+Jaws,Peter Benchley,Thriller,90,Hold
+The Silence of the Lambs,Thomas Harris,Thriller,93,Transfer
+Red Dragon,Thomas Harris,Thriller,91,Acquire
+Hannibal,Thomas Harris,Thriller,88,Hold
+The Andromeda Strain,Michael Crichton,Science Fiction,90,Deaccession
+Jurassic Park,Michael Crichton,Science Fiction,95,Acquire
+The Lost World,Michael Crichton,Science Fiction,91,Hold
+Sphere,Michael Crichton,Science Fiction,89,Transfer
+Congo,Michael Crichton,Adventure,87,Acquire
+Timeline,Michael Crichton,Science Fiction,88,Hold
+Prey,Michael Crichton,Science Fiction,86,Deaccession
+State of Fear,Michael Crichton,Thriller,85,Acquire
+Next,Michael Crichton,Science Fiction,84,Hold
+The Hunt for Red October,Tom Clancy,Thriller,91,Transfer
+Patriot Games,Tom Clancy,Thriller,90,Acquire
+Clear and Present Danger,Tom Clancy,Thriller,89,Hold
+The Sum of All Fears,Tom Clancy,Thriller,88,Deaccession
+Without Remorse,Tom Clancy,Thriller,87,Acquire
+Debt of Honor,Tom Clancy,Thriller,86,Hold
+Executive Orders,Tom Clancy,Thriller,85,Transfer
+Rainbow Six,Tom Clancy,Thriller,89,Acquire
+The Bear and the Dragon,Tom Clancy,Thriller,84,Hold
+Red Rabbit,Tom Clancy,Thriller,83,Deaccession
+The Firm,John Grisham,Thriller,92,Acquire
+The Pelican Brief,John Grisham,Thriller,91,Hold
+The Client,John Grisham,Thriller,90,Transfer
+A Time to Kill,John Grisham,Thriller,89,Acquire
+The Rainmaker,John Grisham,Thriller,88,Hold
+The Runaway Jury,John Grisham,Thriller,87,Deaccession
+The Street Lawyer,John Grisham,Thriller,86,Acquire
+The Testament,John Grisham,Thriller,85,Hold
+The Brethren,John Grisham,Thriller,84,Transfer
+A Painted House,John Grisham,Fiction,83,Acquire
+The Summons,John Grisham,Thriller,82,Hold
+The King of Torts,John Grisham,Thriller,81,Deaccession
+The Last Juror,John Grisham,Thriller,80,Acquire
+The Broker,John Grisham,Thriller,79,Hold
+The Appeal,John Grisham,Thriller,78,Deaccession
+The Associate,John Grisham,Thriller,77,Acquire
+The Confession,John Grisham,Thriller,76,Hold
+The Litigators,John Grisham,Thriller,75,Transfer
+Sycamore Row,John Grisham,Thriller,88,Acquire
+Gray Mountain,John Grisham,Thriller,82,Hold
+Rogue Lawyer,John Grisham,Thriller,84,Deaccession
+The Whistler,John Grisham,Thriller,85,Acquire
+The Rooster Bar,John Grisham,Thriller,86,Hold
+The Reckoning,John Grisham,Historical Fiction,87,Transfer
+The Guardians,John Grisham,Thriller,88,Acquire
+A Time for Mercy,John Grisham,Thriller,89,Hold
+The Judge's List,John Grisham,Thriller,90,Deaccession
+The Boys' Club,Erica Katz,Fiction,78,Acquire
+The Lincoln Highway,Amor Towles,Historical Fiction,92,Hold
+A Gentleman in Moscow,Amor Towles,Historical Fiction,93,Transfer
+Rules of Civility,Amor Towles,Historical Fiction,90,Acquire
+Cloud Cuckoo Land,Anthony Doerr,Fantasy,89,Hold
+All the Light We Cannot See,Anthony Doerr,Historical Fiction,94,Deaccession
+About Grace,Anthony Doerr,Fiction,85,Acquire
+The Shell Collector,Anthony Doerr,Fiction,84,Hold
+Memory Wall,Anthony Doerr,Fiction,83,Transfer
+The Goldfinch,Donna Tartt,Fiction,91,Acquire
+The Secret History,Donna Tartt,Fiction,92,Hold
+The Little Friend,Donna Tartt,Fiction,87,Deaccession
+Little Fires Everywhere,Celeste Ng,Fiction,90,Acquire
+Everything I Never Told You,Celeste Ng,Fiction,88,Hold
+American Dirt,Jeanine Cummins,Fiction,89,Transfer
+The Dutch House,Ann Patchett,Fiction,88,Acquire
+Bel Canto,Ann Patchett,Fiction,87,Hold
+Commonwealth,Ann Patchett,Fiction,86,Deaccession
+The Patron Saint of Liars,Ann Patchett,Fiction,85,Acquire
+Taft,Ann Patchett,Fiction,84,Hold
+The Magician's Assistant,Ann Patchett,Fiction,83,Transfer
+Run,Ann Patchett,Fiction,82,Acquire
+State of Wonder,Ann Patchett,Fiction,86,Hold
+This Is the Story of a Happy Marriage,Ann Patchett,Non-Fiction,85,Deaccession
+Normal People,Sally Rooney,Fiction,91,Acquire
+Conversations with Friends,Sally Rooney,Fiction,89,Hold
+Beautiful World, Where Are You,Sally Rooney,Fiction,90,Transfer
+My Year of Rest and Relaxation,Ottessa Moshfegh,Fiction,85,Acquire
+Eileen,Ottessa Moshfegh,Fiction,84,Hold
+Death in Her Hands,Ottessa Moshfegh,Fiction,83,Deaccession
+Homesick for Another World,Ottessa Moshfegh,Fiction,82,Acquire
+Fleishman Is in Trouble,Taffy Brodesser-Akner,Fiction,86,Hold
+Leave the World Behind,Rumaan Alam,Thriller,87,Transfer
+Such a Fun Age,Kiley Reid,Fiction,88,Acquire
+Big Little Lies,Liane Moriarty,Fiction,91,Hold
+The Husband's Secret,Liane Moriarty,Fiction,90,Transfer
+What Alice Forgot,Liane Moriarty,Fiction,88,Acquire
+Truly Madly Guilty,Liane Moriarty,Fiction,87,Hold
+Nine Perfect Strangers,Liane Moriarty,Fiction,89,Deaccession
+The Last Thing He Told Me,Laura Dave,Thriller,93,Acquire
+The Plot,Jean Hanff Korelitz,Thriller,88,Hold
+The Push,Ashley Audrain,Thriller,89,Transfer
+The Maidens,Alex Michaelides,Thriller,90,Acquire
+Rock Paper Scissors,Alice Feeney,Thriller,87,Hold
+The Sanatorium,Sarah Pearse,Thriller,86,Deaccession
+The Paris Apartment,Lucy Fokley,Thriller,88,Acquire
+The Golden Couple,Greer Hendricks,Thriller,87,Hold
+The Night She Disappeared,Lisa Jewell,Thriller,89,Transfer
+Then She Was Gone,Lisa Jewell,Thriller,90,Acquire
+The Family Upstairs,Lisa Jewell,Thriller,88,Hold
+Invisible Girl,Lisa Jewell,Thriller,87,Deaccession
+The Guest List,Lucy Fokley,Thriller,89,Acquire
+The Hunting Party,Lucy Fokley,Thriller,88,Hold
+The Woman in Cabin 10,Ruth Ware,Thriller,90,Transfer
+In a Dark, Dark Wood,Ruth Ware,Thriller,89,Acquire
+The Turn of the Key,Ruth Ware,Thriller,88,Hold
+The Lying Game,Ruth Ware,Thriller,87,Deaccession
+One by One,Ruth Ware,Thriller,86,Acquire
+The It Girl,Ruth Ware,Thriller,91,Hold
+A Flicker in the Dark,Stacy Willingham,Thriller,88,Transfer
+All the Dangerous Things,Stacy Willingham,Thriller,89,Acquire
+The Last House on Needless Street,Catriona Ward,Horror,87,Hold
+The Whisper Man,Alex North,Thriller,89,Deaccession
+The Shadows,Alex North,Thriller,88,Acquire
+The Last Flight,Julie Clark,Thriller,90,Hold
+The Lies I Tell,Julie Clark,Thriller,89,Transfer
+The Henna Artist,Alka Joshi,Historical Fiction,88,Acquire
+The Secret Keeper of Jaipur,Alka Joshi,Historical Fiction,87,Hold
+The Perfumist of Paris,Alka Joshi,Historical Fiction,86,Deaccession
+The Personal Librarian,Marie Benedict,Historical Fiction,89,Acquire
+The Mystery of Mrs. Christie,Marie Benedict,Historical Fiction,88,Hold
+The Other Einstein,Marie Benedict,Historical Fiction,87,Transfer
+Carnegie's Maid,Marie Benedict,Historical Fiction,86,Acquire
+The Only Woman in the Room,Marie Benedict,Historical Fiction,85,Hold
+Lady Clementine,Marie Benedict,Historical Fiction,84,Deaccession
+Her Hidden Genius,Marie Benedict,Historical Fiction,88,Acquire
+The Rose Code,Kate Quinn,Historical Fiction,91,Hold
+The Alice Network,Kate Quinn,Historical Fiction,92,Transfer
+The Huntress,Kate Quinn,Historical Fiction,90,Acquire
+The Diamond Eye,Kate Quinn,Historical Fiction,93,Hold
+The Nightingale,Kristin Hannah,Historical Fiction,96,Deaccession
+The Great Alone,Kristin Hannah,Historical Fiction,94,Acquire
+Winter Garden,Kristin Hannah,Fiction,92,Hold
+Firefly Lane,Kristin Hannah,Fiction,91,Transfer
+The Four Winds,Kristin Hannah,Historical Fiction,93,Acquire
+Magic Hour,Kristin Hannah,Fiction,89,Hold
+Home Front,Kristin Hannah,Fiction,88,Deaccession
+True Colors,Kristin Hannah,Fiction,87,Acquire
+On Mystic Lake,Kristin Hannah,Fiction,86,Hold
+Between Sisters,Kristin Hannah,Fiction,85,Transfer
+The Things We Do for Love,Kristin Hannah,Fiction,84,Acquire
+Comfort & Joy,Kristin Hannah,Fiction,83,Hold
+The Last Song,Nicholas Sparks,Romance,90,Deaccession
+The Notebook,Nicholas Sparks,Romance,94,Acquire
+A Walk to Remember,Nicholas Sparks,Romance,93,Hold
+Dear John,Nicholas Sparks,Romance,92,Transfer
+The Lucky One,Nicholas Sparks,Romance,91,Acquire
+Safe Haven,Nicholas Sparks,Romance,90,Hold
+The Best of Me,Nicholas Sparks,Romance,89,Deaccession
+The Longest Ride,Nicholas Sparks,Romance,88,Acquire
+See Me,Nicholas Sparks,Romance,87,Hold
+Two by Two,Nicholas Sparks,Romance,86,Transfer
+Every Breath,Nicholas Sparks,Romance,85,Acquire
+The Return,Nicholas Sparks,Romance,88,Hold
+The Wish,Nicholas Sparks,Romance,89,Deaccession
+Me Before You,Jojo Moyes,Romance,92,Acquire
+After You,Jojo Moyes,Romance,88,Hold
+Still Me,Jojo Moyes,Romance,87,Transfer
+The Giver of Stars,Jojo Moyes,Historical Fiction,90,Acquire
+The Last Letter from Your Lover,Jojo Moyes,Romance,89,Hold
+One Plus One,Jojo Moyes,Romance,86,Deaccession
+The Ship of Brides,Jojo Moyes,Historical Fiction,85,Acquire
+The Girl You Left Behind,Jojo Moyes,Historical Fiction,88,Hold
+Paris for One and Other Stories,Jojo Moyes,Romance,84,Transfer
+Outlander,Diana Gabaldon,Fantasy,93,Acquire
+Dragonfly in Amber,Diana Gabaldon,Fantasy,91,Hold
+Voyager,Diana Gabaldon,Fantasy,90,Transfer
+Drums of Autumn,Diana Gabaldon,Fantasy,89,Acquire
+The Fiery Cross,Diana Gabaldon,Fantasy,88,Hold
+A Breath of Snow and Ashes,Diana Gabaldon,Fantasy,87,Deaccession
+An Echo in the Bone,Diana Gabaldon,Fantasy,86,Acquire
+Written in My Own Heart's Blood,Diana Gabaldon,Fantasy,85,Hold
+Go Tell the Bees That I Am Gone,Diana Gabaldon,Fantasy,89,Transfer
+Red, White & Royal Blue,Casey McQuiston,Romance,92,Acquire
+One Last Stop,Casey McQuiston,Romance,90,Hold
+I Kissed Shara Wheeler,Casey McQuiston,YA Fiction,88,Transfer
+The Love Hypothesis,Ali Hazelwood,Romance,94,Acquire
+Love on the Brain,Ali Hazelwood,Romance,91,Hold
+Love, Theoretically,Ali Hazelwood,Romance,92,Deaccession
+It Happened One Summer,Tessa Bailey,Romance,90,Acquire
+Hook, Line, and Sinker,Tessa Bailey,Romance,89,Hold
+Fix Her Up,Tessa Bailey,Romance,87,Transfer
+The Hating Game,Sally Thorne,Romance,91,Acquire
+99 Percent Mine,Sally Thorne,Romance,88,Hold
+Second First Impressions,Sally Thorne,Romance,87,Deaccession
+The Unhoneymooners,Christina Lauren,Romance,92,Acquire
+The Soulmate Equation,Christina Lauren,Romance,90,Hold
+In a Holidaze,Christina Lauren,Romance,89,Transfer
+The Honey-Don't List,Christina Lauren,Romance,87,Acquire
+Twice in a Blue Moon,Christina Lauren,Romance,86,Hold
+Josh and Hazel's Guide to Not Dating,Christina Lauren,Romance,88,Deaccession
+My Favorite Half-Night Stand,Christina Lauren,Romance,85,Acquire
+Roomies,Christina Lauren,Romance,84,Hold
+Autoboyography,Christina Lauren,YA Fiction,87,Transfer
+Love and Other Words,Christina Lauren,Romance,91,Acquire
+Something Wilder,Christina Lauren,Romance,89,Hold
+The True Love Experiment,Christina Lauren,Romance,90,Deaccession
+The Spanish Love Deception,Elena Armas,Romance,93,Acquire
+The American Roommate Experiment,Elena Armas,Romance,90,Hold
+Beach Read,Emily Henry,Romance,94,Transfer
+People We Meet on Vacation,Emily Henry,Romance,95,Acquire
+Book Lovers,Emily Henry,Romance,96,Hold
+Happy Place,Emily Henry,Romance,97,Deaccession
+A Million Junes,Emily Henry,YA Fiction,88,Acquire
+The Love That Split the World,Emily Henry,YA Fiction,87,Hold
+When the Sky Fell on Splendor,Emily Henry,YA Fiction,86,Transfer
+Hello Girls,Emily Henry,YA Fiction,85,Acquire
+The Viscount Who Loved Me,Julia Quinn,Romance,90,Hold
+The Duke and I,Julia Quinn,Romance,91,Deaccession
+An Offer From a Gentleman,Julia Quinn,Romance,89,Acquire
+Romancing Mister Bridgerton,Julia Quinn,Romance,92,Hold
+To Sir Phillip, With Love,Julia Quinn,Romance,88,Transfer
+When He Was Wicked,Julia Quinn,Romance,87,Acquire
+It's in His Kiss,Julia Quinn,Romance,86,Hold
+On the Way to the Wedding,Julia Quinn,Romance,85,Deaccession
+The Lost Apothecary,Sarah Penner,Historical Fiction,89,Acquire
+The London Séance Society,Sarah Penner,Historical Fiction,87,Hold
+The Cartographers,Peng Shepherd,Fantasy,88,Transfer
+The Book of M,Peng Shepherd,Science Fiction,86,Acquire
+The Shadow of the Wind,Carlos Ruiz Zafón,Fiction,92,Hold
+The Angel's Game,Carlos Ruiz Zafón,Fiction,90,Deaccession
+The Prisoner of Heaven,Carlos Ruiz Zafón,Fiction,89,Acquire
+The Labyrinth of the Spirits,Carlos Ruiz Zafón,Fiction,91,Hold
+The Priory of the Orange Tree,Samantha Shannon,Fantasy,93,Transfer
+The Bone Season,Samantha Shannon,Fantasy,88,Acquire
+The Mime Order,Samantha Shannon,Fantasy,87,Hold
+The Song Rising,Samantha Shannon,Fantasy,86,Deaccession
+A Day of Fallen Night,Samantha Shannon,Fantasy,94,Acquire
+Ninth House,Leigh Bardugo,Fantasy,92,Hold
+Hell Bent,Leigh Bardugo,Fantasy,93,Transfer
+Six of Crows,Leigh Bardugo,Fantasy,95,Acquire
+Crooked Kingdom,Leigh Bardugo,Fantasy,94,Hold
+Shadow and Bone,Leigh Bardugo,Fantasy,93,Deaccession
+Siege and Storm,Leigh Bardugo,Fantasy,91,Acquire
+Ruin and Rising,Leigh Bardugo,Fantasy,90,Hold
+King of Scars,Leigh Bardugo,Fantasy,92,Transfer
+Rule of Wolves,Leigh Bardugo,Fantasy,91,Acquire
+The Cruel Prince,Holly Black,Fantasy,94,Hold
+The Wicked King,Holly Black,Fantasy,93,Deaccession
+The Queen of Nothing,Holly Black,Fantasy,92,Acquire
+The Folk of the Air,Holly Black,Fantasy,94,Hold
+A Court of Thorns and Roses,Sarah J. Maas,Fantasy,96,Transfer
+A Court of Mist and Fury,Sarah J. Maas,Fantasy,97,Acquire
+A Court of Wings and Ruin,Sarah J. Maas,Fantasy,96,Hold
+A Court of Frost and Starlight,Sarah J. Maas,Fantasy,94,Deaccession
+A Court of Silver Flames,Sarah J. Maas,Fantasy,95,Acquire
+Throne of Glass,Sarah J. Maas,Fantasy,94,Hold
+Crown of Midnight,Sarah J. Maas,Fantasy,93,Transfer
+Heir of Fire,Sarah J. Maas,Fantasy,92,Acquire
+Queen of Shadows,Sarah J. Maas,Fantasy,91,Hold
+Empire of Storms,Sarah J. Maas,Fantasy,90,Deaccession
+Tower of Dawn,Sarah J. Maas,Fantasy,89,Acquire
+Kingdom of Ash,Sarah J. Maas,Fantasy,95,Hold
+House of Earth and Blood,Sarah J. Maas,Fantasy,96,Transfer
+House of Sky and Breath,Sarah J. Maas,Fantasy,97,Acquire
+From Blood and Ash,Jennifer L. Armentrout,Fantasy,93,Hold
+A Kingdom of Flesh and Fire,Jennifer L. Armentrout,Fantasy,92,Deaccession
+The Crown of Gilded Bones,Jennifer L. Armentrout,Fantasy,91,Acquire
+The War of Two Queens,Jennifer L. Armentrout,Fantasy,90,Hold
+A Soul of Ash and Blood,Jennifer L. Armentrout,Fantasy,89,Transfer
+Fourth Wing,Rebecca Yarros,Fantasy,98,Acquire
+Iron Flame,Rebecca Yarros,Fantasy,99,Hold
+The Serpent & the Wings of Night,Carissa Broadbent,Fantasy,92,Deaccession
+The Ashes & the Star-Cursed King,Carissa Broadbent,Fantasy,91,Acquire
+The Atlas Six,Olivie Blake,Fantasy,90,Hold
+The Atlas Paradox,Olivie Blake,Fantasy,89,Transfer
+Babel,R.F. Kuang,Fantasy,94,Acquire
+The Poppy War,R.F. Kuang,Fantasy,93,Hold
+The Dragon Republic,R.F. Kuang,Fantasy,92,Deaccession
+The Burning God,R.F. Kuang,Fantasy,91,Acquire
+Yellowface,R.F. Kuang,Fiction,95,Hold
+Jonathan Strange & Mr Norrell,Susanna Clarke,Fantasy,88,Transfer
+Piranesi,Susanna Clarke,Fantasy,92,Acquire
+Mexican Gothic,Silvia Moreno-Garcia,Horror,89,Hold
+The Daughter of Doctor Moreau,Silvia Moreno-Garcia,Science Fiction,87,Deaccession
+Gods of Jade and Shadow,Silvia Moreno-Garcia,Fantasy,88,Acquire
+Velvet Was the Night,Silvia Moreno-Garcia,Thriller,86,Hold
+Silver Nitrate,Silvia Moreno-Garcia,Horror,89,Transfer
+Black Sun,Rebecca Roanhorse,Fantasy,90,Acquire
+Fevered Star,Rebecca Roanhorse,Fantasy,89,Hold
+Tread of Angels,Rebecca Roanhorse,Fantasy,87,Deaccession
+The City We Became,N.K. Jemisin,Fantasy,92,Acquire
+The World We Make,N.K. Jemisin,Fantasy,91,Hold
+The Fifth Season,N.K. Jemisin,Fantasy,95,Transfer
+The Obelisk Gate,N.K. Jemisin,Fantasy,94,Acquire
+The Stone Sky,N.K. Jemisin,Fantasy,93,Hold
+How Long 'til Black Future Month?,N.K. Jemisin,Science Fiction,90,Deaccession
+The Hundred Thousand Kingdoms,N.K. Jemisin,Fantasy,91,Acquire
+The Broken Kingdoms,N.K. Jemisin,Fantasy,90,Hold
+The Kingdom of Gods,N.K. Jemisin,Fantasy,89,Transfer
+The Inheritance Trilogy,N.K. Jemisin,Fantasy,92,Acquire
+Children of Blood and Bone,Tomi Adeyemi,Fantasy,94,Hold
+Children of Virtue and Vengeance,Tomi Adeyemi,Fantasy,93,Deaccession
+Raybearer,Jordan Ifueko,Fantasy,90,Acquire
+Redemptor,Jordan Ifueko,Fantasy,89,Hold
+The Gilded Ones,Namina Forna,Fantasy,91,Transfer
+The Merciless Ones,Namina Forna,Fantasy,90,Acquire
+Legendborn,Tracy Deonn,Fantasy,93,Hold
+Bloodmarked,Tracy Deonn,Fantasy,92,Deaccession
+This Woven Kingdom,Tahereh Mafi,Fantasy,91,Acquire
+These Infinite Threads,Tahereh Mafi,Fantasy,90,Hold
+A Very Large Expanse of Sea,Tahereh Mafi,YA Fiction,88,Transfer
+Shatter Me,Tahereh Mafi,YA Fiction,92,Acquire
+Unravel Me,Tahereh Mafi,YA Fiction,91,Hold
+Ignite Me,Tahereh Mafi,YA Fiction,93,Deaccession
+Restore Me,Tahereh Mafi,YA Fiction,90,Acquire
+Defy Me,Tahereh Mafi,YA Fiction,89,Hold
+Imagine Me,Tahereh Mafi,YA Fiction,88,Transfer
+The Ballad of Songbirds and Snakes,Suzanne Collins,YA Fiction,94,Acquire
+The Inheritance Games,Jennifer Lynn Barnes,YA Fiction,93,Hold
+The Hawthorne Legacy,Jennifer Lynn Barnes,YA Fiction,92,Deaccession
+The Final Gambit,Jennifer Lynn Barnes,YA Fiction,91,Acquire
+One of Us Is Lying,Karen M. McManus,YA Fiction,94,Hold
+One of Us Is Next,Karen M. McManus,YA Fiction,92,Transfer
+Two Can Keep a Secret,Karen M. McManus,YA Fiction,91,Acquire
+The Cousins,Karen M. McManus,YA Fiction,90,Hold
+You'll Be the Death of Me,Karen M. McManus,YA Fiction,89,Deaccession
+A Good Girl's Guide to Murder,Holly Jackson,YA Fiction,95,Acquire
+Good Girl, Bad Blood,Holly Jackson,YA Fiction,94,Hold
+As Good as Dead,Holly Jackson,YA Fiction,93,Transfer
+Five Survive,Holly Jackson,YA Fiction,92,Acquire
+The Seven Year Slip,Ashley Poston,Romance,88,Hold
+The Dead Romantics,Ashley Poston,Romance,89,Deaccession
+Geekerella,Ashley Poston,YA Fiction,87,Acquire
+The Princess and the Fangirl,Ashley Poston,YA Fiction,86,Hold
+Bookish and the Beast,Ashley Poston,YA Fiction,85,Transfer
+Red Queen,Victoria Aveyard,Fantasy,93,Acquire
+Glass Sword,Victoria Aveyard,Fantasy,91,Hold
+King's Cage,Victoria Aveyard,Fantasy,90,Deaccession
+War Storm,Victoria Aveyard,Fantasy,89,Acquire
+Realm Breaker,Victoria Aveyard,Fantasy,92,Hold
+Blade Breaker,Victoria Aveyard,Fantasy,91,Transfer
+An Ember in the Ashes,Sabaa Tahir,Fantasy,94,Acquire
+A Torch Against the Night,Sabaa Tahir,Fantasy,93,Hold
+A Reaper at the Gates,Sabaa Tahir,Fantasy,92,Deaccession
+A Sky Beyond the Storm,Sabaa Tahir,Fantasy,91,Acquire
+All My Rage,Sabaa Tahir,YA Fiction,90,Hold
+The Wrath & the Dawn,Renée Ahdieh,Fantasy,92,Transfer
+The Rose & the Dagger,Renée Ahdieh,Fantasy,91,Acquire
+Flame in the Mist,Renée Ahdieh,Fantasy,90,Hold
+Smoke in the Sun,Renée Ahdieh,Fantasy,89,Deaccession
+The Beautiful,Renée Ahdieh,Fantasy,88,Acquire
+The Damned,Renée Ahdieh,Fantasy,87,Hold
+The Righteous,Renée Ahdieh,Fantasy,86,Transfer
+Carve the Mark,Veronica Roth,Science Fiction,88,Acquire
+The Fates Divide,Veronica Roth,Science Fiction,87,Hold
+Divergent,Veronica Roth,Science Fiction,95,Deaccession
+Insurgent,Veronica Roth,Science Fiction,94,Acquire
+Allegiant,Veronica Roth,Science Fiction,92,Hold
+Chosen Ones,Veronica Roth,Fantasy,89,Transfer
+Poster Girl,Veronica Roth,Science Fiction,88,Acquire
+The Maze Runner,James Dashner,Science Fiction,94,Hold
+The Scorch Trials,James Dashner,Science Fiction,92,Deaccession
+The Death Cure,James Dashner,Science Fiction,91,Acquire
+The Kill Order,James Dashner,Science Fiction,89,Hold
+The Fever Code,James Dashner,Science Fiction,88,Transfer
+The 5th Wave,Rick Yancey,Science Fiction,91,Acquire
+The Infinite Sea,Rick Yancey,Science Fiction,89,Hold
+The Last Star,Rick Yancey,Science Fiction,88,Deaccession
+I Am Number Four,Pittacus Lore,Science Fiction,90,Acquire
+The Power of Six,Pittacus Lore,Science Fiction,88,Hold
+The Rise of Nine,Pittacus Lore,Science Fiction,87,Transfer
+The Fall of Five,Pittacus Lore,Science Fiction,86,Acquire
+The Revenge of Seven,Pittacus Lore,Science Fiction,85,Hold
+The Fate of Ten,Pittacus Lore,Science Fiction,84,Deaccession
+United as One,Pittacus Lore,Science Fiction,83,Acquire
+Uglies,Scott Westerfeld,Science Fiction,90,Hold
+Pretties,Scott Westerfeld,Science Fiction,89,Transfer
+Specials,Scott Westerfeld,Science Fiction,88,Acquire
+Extras,Scott Westerfeld,Science Fiction,87,Hold
+Leviathan,Scott Westerfeld,Science Fiction,89,Deaccession
+Behemoth,Scott Westerfeld,Science Fiction,88,Acquire
+Goliath,Scott Westerfeld,Science Fiction,87,Hold
+The Mortal Instruments: City of Bones,Cassandra Clare,Fantasy,93,Transfer
+City of Ashes,Cassandra Clare,Fantasy,92,Acquire
+City of Glass,Cassandra Clare,Fantasy,91,Hold
+City of Fallen Angels,Cassandra Clare,Fantasy,90,Deaccession
+City of Lost Souls,Cassandra Clare,Fantasy,89,Acquire
+City of Heavenly Fire,Cassandra Clare,Fantasy,92,Hold
+Clockwork Angel,Cassandra Clare,Fantasy,93,Transfer
+Clockwork Prince,Cassandra Clare,Fantasy,92,Acquire
+Clockwork Princess,Cassandra Clare,Fantasy,94,Hold
+Lady Midnight,Cassandra Clare,Fantasy,91,Deaccession
+Lord of Shadows,Cassandra Clare,Fantasy,90,Acquire
+Queen of Air and Darkness,Cassandra Clare,Fantasy,92,Hold
+Chain of Gold,Cassandra Clare,Fantasy,93,Transfer
+Chain of Iron,Cassandra Clare,Fantasy,92,Acquire
+Chain of Thorns,Cassandra Clare,Fantasy,91,Hold
+Sword Catcher,Cassandra Clare,Fantasy,94,Deaccession
+The Magicians,Lev Grossman,Fantasy,89,Acquire
+The Magician King,Lev Grossman,Fantasy,88,Hold
+The Magician's Land,Lev Grossman,Fantasy,87,Transfer
+American Gods,Neil Gaiman,Fantasy,93,Acquire
+Neverwhere,Neil Gaiman,Fantasy,91,Hold
+Stardust,Neil Gaiman,Fantasy,92,Deaccession
+Coraline,Neil Gaiman,Fantasy,90,Acquire
+The Graveyard Book,Neil Gaiman,Fantasy,91,Hold
+Good Omens,Neil Gaiman & Terry Pratchett,Fantasy,94,Transfer
+The Ocean at the End of the Lane,Neil Gaiman,Fantasy,92,Acquire
+Norse Mythology,Neil Gaiman,Mythology,93,Hold
+Anansi Boys,Neil Gaiman,Fantasy,90,Deaccession
+The Sandman: Act I,Neil Gaiman,Graphic Novel,95,Acquire
+The Sandman: Act II,Neil Gaiman,Graphic Novel,94,Hold
+The Sandman: Act III,Neil Gaiman,Graphic Novel,93,Transfer
+Watchmen,Alan Moore,Graphic Novel,96,Acquire
+V for Vendetta,Alan Moore,Graphic Novel,95,Hold
+The League of Extraordinary Gentlemen, Vol. 1,Alan Moore,Graphic Novel,92,Deaccession
+From Hell,Alan Moore,Graphic Novel,91,Acquire
+Saga, Vol. 1,Brian K. Vaughan,Graphic Novel,97,Hold
+Paper Girls, Vol. 1,Brian K. Vaughan,Graphic Novel,94,Transfer
+Y: The Last Man, Vol. 1,Brian K. Vaughan,Graphic Novel,95,Acquire
+Persepolis: The Story of a Childhood,Marjane Satrapi,Graphic Novel,93,Hold
+Maus I: A Survivor's Tale,Art Spiegelman,Graphic Novel,96,Deaccession
+Fun Home: A Family Tragicomic,Alison Bechdel,Graphic Novel,92,Acquire
+Blankets,Craig Thompson,Graphic Novel,91,Hold
+Ghost World,Daniel Clowes,Graphic Novel,90,Transfer
+Jimmy Corrigan, the Smartest Kid on Earth,Chris Ware,Graphic Novel,88,Acquire
+Building Stories,Chris Ware,Graphic Novel,87,Hold
+Asterios Polyp,David Mazzucchelli,Graphic Novel,89,Deaccession
+Black Hole,Charles Burns,Graphic Novel,88,Acquire
+My Favorite Thing Is Monsters,Emil Ferris,Graphic Novel,91,Hold
+This One Summer,Mariko Tamaki,Graphic Novel,90,Transfer
+The Arrival,Shaun Tan,Graphic Novel,94,Acquire
+Here,Richard McGuire,Graphic Novel,92,Hold
+Pashmina,Nidhi Chanani,Graphic Novel,89,Deaccession
+The Best We Could Do,Thi Bui,Graphic Novel,91,Acquire
+They Called Us Enemy,George Takei,Graphic Novel,93,Hold
+March: Book One,John Lewis,Graphic Novel,95,Transfer
+The Complete Persepolis,Marjane Satrapi,Graphic Novel,94,Acquire
+The Color of Magic,Terry Pratchett,Fantasy,90,Hold
+The Light Fantastic,Terry Pratchett,Fantasy,89,Deaccession
+Equal Rites,Terry Pratchett,Fantasy,88,Acquire
+Mort,Terry Pratchett,Fantasy,91,Hold
+Sourcery,Terry Pratchett,Fantasy,87,Transfer
+Wyrd Sisters,Terry Pratchett,Fantasy,89,Acquire
+Pyramids,Terry Pratchett,Fantasy,86,Hold
+Guards! Guards!,Terry Pratchett,Fantasy,92,Deaccession
+Eric,Terry Pratchett,Fantasy,85,Acquire
+Moving Pictures,Terry Pratchett,Fantasy,87,Hold
+Reaper Man,Terry Pratchett,Fantasy,90,Transfer
+Witches Abroad,Terry Pratchett,Fantasy,88,Acquire
+Small Gods,Terry Pratchett,Fantasy,91,Hold
+Lords and Ladies,Terry Pratchett,Fantasy,87,Deaccession
+Men at Arms,Terry Pratchett,Fantasy,92,Acquire
+Soul Music,Terry Pratchett,Fantasy,89,Hold
+Interesting Times,Terry Pratchett,Fantasy,88,Transfer
+Maskerade,Terry Pratchett,Fantasy,87,Acquire
+Feet of Clay,Terry Pratchett,Fantasy,91,Hold
+Hogfather,Terry Pratchett,Fantasy,90,Deaccession
+Jingo,Terry Pratchett,Fantasy,88,Acquire
+The Last Continent,Terry Pratchett,Fantasy,87,Hold
+Carpe Jugulum,Terry Pratchett,Fantasy,89,Transfer
+The Fifth Elephant,Terry Pratchett,Fantasy,91,Acquire
+The Truth,Terry Pratchett,Fantasy,90,Hold
+Thief of Time,Terry Pratchett,Fantasy,92,Deaccession
+The Last Hero,Terry Pratchett,Fantasy,89,Acquire
+The Amazing Maurice and His Educated Rodents,Terry Pratchett,Fantasy,88,Hold
+Night Watch,Terry Pratchett,Fantasy,94,Transfer
+The Wee Free Men,Terry Pratchett,Fantasy,91,Acquire
+Monstrous Regiment,Terry Pratchett,Fantasy,90,Hold
+A Hat Full of Sky,Terry Pratchett,Fantasy,90,Deaccession
+Going Postal,Terry Pratchett,Fantasy,93,Acquire
+Thud!,Terry Pratchett,Fantasy,92,Hold
+Wintersmith,Terry Pratchett,Fantasy,91,Transfer
+Making Money,Terry Pratchett,Fantasy,92,Acquire
+Unseen Academicals,Terry Pratchett,Fantasy,90,Hold
+I Shall Wear Midnight,Terry Pratchett,Fantasy,91,Deaccession
+Snuff,Terry Pratchett,Fantasy,92,Acquire
+Raising Steam,Terry Pratchett,Fantasy,90,Hold
+The Shepherd's Crown,Terry Pratchett,Fantasy,93,Transfer
+Eragon,Christopher Paolini,Fantasy,92,Acquire
+Eldest,Christopher Paolini,Fantasy,91,Hold
+Brisingr,Christopher Paolini,Fantasy,90,Deaccession
+Inheritance,Christopher Paolini,Fantasy,89,Acquire
+Murtagh,Christopher Paolini,Fantasy,93,Hold
+The Golden Compass,Philip Pullman,Fantasy,94,Transfer
+The Subtle Knife,Philip Pullman,Fantasy,93,Acquire
+The Amber Spyglass,Philip Pullman,Fantasy,92,Hold
+La Belle Sauvage,Philip Pullman,Fantasy,91,Deaccession
+The Secret Commonwealth,Philip Pullman,Fantasy,90,Acquire
+The Lies of Locke Lamora,Scott Lynch,Fantasy,93,Hold
+Red Seas Under Red Skies,Scott Lynch,Fantasy,92,Transfer
+The Republic of Thieves,Scott Lynch,Fantasy,91,Acquire
+The Blade Itself,Joe Abercrombie,Fantasy,94,Hold
+Before They Are Hanged,Joe Abercrombie,Fantasy,93,Deaccession
+Last Argument of Kings,Joe Abercrombie,Fantasy,92,Acquire
+Best Served Cold,Joe Abercrombie,Fantasy,91,Hold
+The Heroes,Joe Abercrombie,Fantasy,90,Transfer
+Red Country,Joe Abercrombie,Fantasy,89,Acquire
+A Little Hatred,Joe Abercrombie,Fantasy,93,Hold
+The Trouble With Peace,Joe Abercrombie,Fantasy,92,Deaccession
+The Wisdom of Crowds,Joe Abercrombie,Fantasy,91,Acquire
+Gardens of the Moon,Steven Erikson,Fantasy,88,Hold
+Deadhouse Gates,Steven Erikson,Fantasy,87,Transfer
+Memories of Ice,Steven Erikson,Fantasy,89,Acquire
+House of Chains,Steven Erikson,Fantasy,86,Hold
+Midnight Tides,Steven Erikson,Fantasy,87,Deaccession
+The Bonehunters,Steven Erikson,Fantasy,85,Acquire
+Reaper's Gale,Steven Erikson,Fantasy,86,Hold
+Toll the Hounds,Steven Erikson,Fantasy,84,Transfer
+Dust of Dreams,Steven Erikson,Fantasy,83,Acquire
+The Crippled God,Steven Erikson,Fantasy,85,Hold
+Assassin's Apprentice,Robin Hobb,Fantasy,94,Deaccession
+Royal Assassin,Robin Hobb,Fantasy,93,Acquire
+Assassin's Quest,Robin Hobb,Fantasy,92,Hold
+Ship of Magic,Robin Hobb,Fantasy,91,Transfer
+The Mad Ship,Robin Hobb,Fantasy,90,Acquire
+Ship of Destiny,Robin Hobb,Fantasy,89,Hold
+Fool's Errand,Robin Hobb,Fantasy,93,Deaccession
+The Golden Fool,Robin Hobb,Fantasy,92,Acquire
+Fool's Fate,Robin Hobb,Fantasy,91,Hold
+Dragon Keeper,Robin Hobb,Fantasy,88,Transfer
+Dragon Haven,Robin Hobb,Fantasy,87,Acquire
+City of Dragons,Robin Hobb,Fantasy,86,Hold
+Blood of Dragons,Robin Hobb,Fantasy,85,Deaccession
+Fool's Assassin,Robin Hobb,Fantasy,92,Acquire
+Fool's Quest,Robin Hobb,Fantasy,91,Hold
+Assassin's Fate,Robin Hobb,Fantasy,93,Transfer
+The Way of Kings,Brandon Sanderson,Fantasy,98,Acquire
+Words of Radiance,Brandon Sanderson,Fantasy,97,Hold
+Oathbringer,Brandon Sanderson,Fantasy,96,Deaccession
+Rhythm of War,Brandon Sanderson,Fantasy,95,Acquire
+Mistborn: The Final Empire,Brandon Sanderson,Fantasy,96,Hold
+The Well of Ascension,Brandon Sanderson,Fantasy,95,Transfer
+The Hero of Ages,Brandon Sanderson,Fantasy,94,Acquire
+The Alloy of Law,Brandon Sanderson,Fantasy,93,Hold
+Shadows of Self,Brandon Sanderson,Fantasy,92,Deaccession
+The Bands of Mourning,Brandon Sanderson,Fantasy,91,Acquire
+The Lost Metal,Brandon Sanderson,Fantasy,94,Hold
+Warbreaker,Brandon Sanderson,Fantasy,93,Transfer
+Elantris,Brandon Sanderson,Fantasy,92,Acquire
+Tress of the Emerald Sea,Brandon Sanderson,Fantasy,97,Hold
+Yumi and the Nightmare Painter,Brandon Sanderson,Fantasy,96,Deaccession
+The Sunlit Man,Brandon Sanderson,Fantasy,95,Acquire
+The Eye of the World,Robert Jordan,Fantasy,95,Hold
+The Great Hunt,Robert Jordan,Fantasy,94,Transfer
+The Dragon Reborn,Robert Jordan,Fantasy,93,Acquire
+The Shadow Rising,Robert Jordan,Fantasy,92,Hold
+The Fires of Heaven,Robert Jordan,Fantasy,91,Deaccession
+Lord of Chaos,Robert Jordan,Fantasy,90,Acquire
+A Crown of Swords,Robert Jordan,Fantasy,89,Hold
+The Path of Daggers,Robert Jordan,Fantasy,88,Transfer
+Winter's Heart,Robert Jordan,Fantasy,87,Acquire
+Crossroads of Twilight,Robert Jordan,Fantasy,86,Hold
+Knife of Dreams,Robert Jordan,Fantasy,88,Deaccession
+The Gathering Storm,Robert Jordan & Brandon Sanderson,Fantasy,92,Acquire
+Towers of Midnight,Robert Jordan & Brandon Sanderson,Fantasy,93,Hold
+A Memory of Light,Robert Jordan & Brandon Sanderson,Fantasy,95,Transfer
+New Spring,Robert Jordan,Fantasy,89,Acquire
+The Black Prism,Brent Weeks,Fantasy,93,Hold
+The Blinding Knife,Brent Weeks,Fantasy,92,Deaccession
+The Broken Eye,Brent Weeks,Fantasy,91,Acquire
+The Blood Mirror,Brent Weeks,Fantasy,90,Hold
+The Burning White,Brent Weeks,Fantasy,92,Transfer
+The Way of Shadows,Brent Weeks,Fantasy,94,Acquire
+Shadow's Edge,Brent Weeks,Fanta

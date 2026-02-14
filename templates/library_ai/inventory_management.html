@@ -1,0 +1,93 @@
+{% extends 'library_ai/base.html' %}
+{% load static %}
+
+{% block title %}Inventory Management - Trend Shelf AI{% endblock %}
+
+{% block content %}
+<h2 class="text-3xl font-bold mb-6">AI-Driven Inventory Recommendations</h2>
+<div class="glassmorphism p-6">
+    <div class="flex justify-between items-center mb-4">
+        <p class="text-lg">Smart Stock Suggestions</p>
+        <div class="flex space-x-4">
+            <input type="text" id="inventory-search" placeholder="Search by title or author..." 
+                   class="bg-gray-700/50 border border-gray-600 rounded-lg p-2 w-64">
+            <select id="category-filter" class="bg-gray-700/50 border border-gray-600 rounded-lg p-2">
+                <option value="">All Categories</option>
+            </select>
+            <select id="action-filter" class="bg-gray-700/50 border border-gray-600 rounded-lg p-2">
+                <option value="">All Actions</option>
+                <option value="Acquire">Acquire</option>
+                <option value="Hold">Hold</option>
+                <option value="Transfer">Transfer</option>
+                <option value="Deaccession">Deaccession</option>
+            </select>
+        </div>
+    </div>
+    <div class="overflow-x-auto">
+        <table class="w-full text-left">
+            <thead class="table-header text-sm uppercase">
+                <tr>
+                    <th class="p-3">Title</th>
+                    <th class="p-3">Author</th>
+                    <th class="p-3">Category</th>
+                    <th class="p-3">AI Predicted Demand</th>
+                    <th class="p-3">Recommendation</th>
+                    <th class="p-3">Actions</th>
+                </tr>
+            </thead>
+            <tbody id="inventory-table-body">
+                <tr>
+                    <td colspan="6" class="text-center p-4 text-gray-500">
+                        <i class="fas fa-spinner fa-spin mr-2"></i>Loading inventory data...
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="pagination" class="mt-4 flex justify-center space-x-2">
+        <!-- Pagination will be added here -->
+    </div>
+</div>
+
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
+    <div class="glassmorphism p-6">
+        <h3 class="text-xl font-semibold mb-4">Action Summary</h3>
+        <div id="action-summary">
+            <div class="space-y-2">
+                <div class="flex justify-between">
+                    <span class="text-green-400">Acquire:</span>
+                    <span id="acquire-count">0</span>
+                </div>
+                <div class="flex justify-between">
+                    <span class="text-gray-400">Hold:</span>
+                    <span id="hold-count">0</span>
+                </div>
+                <div class="flex justify-between">
+                    <span class="text-yellow-400">Transfer:</span>
+                    <span id="transfer-count">0</span>
+                </div>
+                <div class="flex justify-between">
+                    <span class="text-red-400">Deaccession:</span>
+                    <span id="deaccession-count">0</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="glassmorphism p-6">
+        <h3 class="text-xl font-semibold mb-4">High Demand Books</h3>
+        <div id="high-demand-books">
+            <p class="text-gray-400">Loading high demand books...</p>
+        </div>
+    </div>
+    <div class="glassmorphism p-6">
+        <h3 class="text-xl font-semibold mb-4">AI Recommendations</h3>
+        <div id="ai-recommendations">
+            <p class="text-gray-400">Loading AI recommendations...</p>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{% static 'js/inventory_management.js' %}"></script>
+{% endblock %}

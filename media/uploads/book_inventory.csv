@@ -1,0 +1,31 @@
+book_id,title,author,category,total_copies,available_copies,location,purchase_date,condition,popularity_score
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,5,3,Shelf-A1,2023-01-15,Good,8.5
+2,To Kill a Mockingbird,Harper Lee,Fiction,4,2,Shelf-A2,2023-01-16,Good,9.2
+3,1984,George Orwell,Fiction,6,4,Shelf-A3,2023-01-17,Excellent,8.8
+4,Pride and Prejudice,Jane Austen,Fiction,3,1,Shelf-A4,2023-01-18,Good,7.9
+5,The Catcher in the Rye,J.D. Salinger,Fiction,4,3,Shelf-A5,2023-01-19,Fair,7.3
+6,JavaScript: The Good Parts,Douglas Crockford,Technology,7,5,Shelf-B1,2023-01-20,Excellent,9.1
+7,Clean Code,Robert C. Martin,Technology,5,3,Shelf-B2,2023-01-21,Good,8.7
+8,Python Crash Course,Eric Matthes,Technology,8,6,Shelf-B3,2023-01-22,Excellent,8.9
+9,The Design of Everyday Things,Don Norman,Technology,4,2,Shelf-B4,2023-01-23,Good,8.4
+10,Introduction to Algorithms,Thomas H. Cormen,Technology,3,1,Shelf-B5,2023-01-24,Good,9.5
+11,The Hobbit,J.R.R. Tolkien,Fantasy,6,4,Shelf-C1,2023-01-25,Excellent,8.6
+12,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,8,5,Shelf-C2,2023-01-26,Good,9.3
+13,The Lord of the Rings,J.R.R. Tolkien,Fantasy,5,3,Shelf-C3,2023-01-27,Excellent,9.0
+14,A Game of Thrones,George R.R. Martin,Fantasy,7,4,Shelf-C4,2023-01-28,Good,8.8
+15,The Chronicles of Narnia,C.S. Lewis,Fantasy,4,2,Shelf-C5,2023-01-29,Good,8.1
+16,Becoming,Michelle Obama,Biography,5,3,Shelf-D1,2023-01-30,Excellent,8.3
+17,Steve Jobs,Walter Isaacson,Biography,4,2,Shelf-D2,2023-01-31,Good,8.7
+18,Educated,Tara Westover,Biography,3,1,Shelf-D3,2023-02-01,Good,8.5
+19,The Diary of a Young Girl,Anne Frank,Biography,6,4,Shelf-D4,2023-02-02,Excellent,9.1
+20,Born a Crime,Trevor Noah,Biography,5,3,Shelf-D5,2023-02-03,Good,8.2
+21,Sapiens,Yuval Noah Harari,History,4,2,Shelf-E1,2023-02-04,Good,8.9
+22,Guns, Germs, and Steel,Jared Diamond,History,3,1,Shelf-E2,2023-02-05,Good,8.4
+23,The Wright Brothers,David McCullough,History,5,3,Shelf-E3,2023-02-06,Excellent,7.8
+24,A People's History of the United States,Howard Zinn,History,4,2,Shelf-E4,2023-02-07,Good,7.6
+25,The Civil War,Ken Burns,History,6,4,Shelf-E5,2023-02-08,Good,7.9
+26,The Great Gatsby,F. Scott Fitzgerald,Fiction,2,1,Shelf-A1,2023-02-09,Good,8.5
+27,To Kill a Mockingbird,Harper Lee,Fiction,3,2,Shelf-A2,2023-02-10,Excellent,9.2
+28,1984,George Orwell,Fiction,4,3,Shelf-A3,2023-02-11,Good,8.8
+29,Pride and Prejudice,Jane Austen,Fiction,5,4,Shelf-A4,2023-02-12,Excellent,7.9
+30,JavaScript: The Good Parts,Douglas Crockford,Technology,6,5,Shelf-B1,2023-02-13,Good,9.1

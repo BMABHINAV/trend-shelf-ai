@@ -1,0 +1,21 @@
+book_id,title,author,genre,publication_year,isbn,language,publisher,total_copies,available_copies,popularity_score,average_rating
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,9780743273565,English,Charles Scribner's Sons,10,3,8.5,4.2
+2,To Kill a Mockingbird,Harper Lee,Fiction,1960,9780061120084,English,J. B. Lippincott & Co.,12,5,9.2,4.8
+3,1984,George Orwell,Dystopian,1949,9780451524935,English,Secker & Warburg,15,7,9.5,4.7
+4,Pride and Prejudice,Jane Austen,Romance,1813,9780141439518,English,T. Egerton, Whitehall,8,2,8.8,4.5
+5,The Hobbit,J.R.R. Tolkien,Fantasy,1937,9780618260300,English,George Allen & Unwin,20,10,9.8,4.9
+6,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9780316769488,English,Little, Brown and Company,7,1,8.1,4.1
+7,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,9780618640157,English,George Allen & Unwin,18,9,9.9,4.9
+8,Brave New World,Aldous Huxley,Dystopian,1932,9780060850524,English,Chatto & Windus,13,6,9.3,4.6
+9,Moby Dick,Herman Melville,Adventure,1851,9781503280786,English,Harper & Brothers,9,4,8.4,4.3
+10,War and Peace,Leo Tolstoy,Historical Fiction,1869,9780199232765,English,The Russian Messenger,5,1,8.9,4.4
+11,The Adventures of Huckleberry Finn,Mark Twain,Adventure,1884,9780486280615,English,Chatto & Windus,11,6,8.7,4.4
+12,The Odyssey,Homer,Epic Poetry,800,9780140268867,English,Penguin Classics,14,8,9.1,4.6
+13,Crime and Punishment,Fyodor Dostoevsky,Philosophical Fiction,1866,9780486415871,English,The Russian Messenger,6,2,9.0,4.5
+14,Frankenstein,Mary Shelley,Gothic Fiction,1818,9780486282114,English,Lackington, Hughes, Harding, Mavor, & Jones,10,5,8.6,4.3
+15,The Chronicles of Narnia,C.S. Lewis,Fantasy,1950,9780066238500,English,Geoffrey Bles,16,11,9.6,4.8
+16,Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,1865,9780486275437,English,Macmillan,12,7,8.8,4.5
+17,The Picture of Dorian Gray,Oscar Wilde,Gothic Fiction,1890,9780486278070,English,Lippincott's Monthly Magazine,8,3,8.5,4.4
+18,Jane Eyre,Charlotte Brontë,Romance,1847,9780141441146,English,Smith, Elder & Co.,10,4,8.9,4.6
+19,Wuthering Heights,Emily Brontë,Gothic Fiction,1847,9780141439556,English,Thomas Cautley Newby,7,2,8.7,4.4
+20,Great Expectations,Charles Dickens,Historical Fiction,1861,9780141439563,English,All the Year Round,9,5,8.8,4.5
